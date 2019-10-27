@@ -1,42 +1,18 @@
-
-[![Build Status](https://travis-ci.com/TralahM/UberClone.svg?branch=master)](https://travis-ci.com/TralahM/UberClone)
-[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
-[![Organization](https://img.shields.io/badge/Org-TralahTek-blue.svg)](https://github.com/TralahTek)
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-[![HitCount](http://hits.dwyl.io/TralahM/UberClone.svg)](http://dwyl.io/TralahM/UberClone)
-[![Inline Docs](http://inch-ci.org/github/TralahM/UberClone.svg?branch=master)](http://inch-ci.org/github/TralahM/UberClone)
-[![PyPI pyversions](https://img.shields.io/pypi/pyversions/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/TralahM/pull/)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg)](https://gitHub.com/TralahM/UberClone/pull/)
-[![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/TralahM/UberClone).
-
-# UberClone.
-
-
-[![TralahM](https://img.shields.io/badge/Architect-TralahM-blue.svg?style=for-the-badge)](https://github.com/TralahM)
-[![TralahM](https://img.shields.io/badge/Maintainer-TralahM-green.svg?style=for-the-badge)](https://github.com/TralahM)
-
 # Uber_android_app_clone
 
 ▷ Create an android app like uber
-### Setup and Installation
-
-```Bash
-git clone https://github.com/TralahM/UberClone.git
-cd UberClone
-```
 
 
-**▷ Download the app with the uber design here**: https://www.TralahM.com/product/uber-redesign/ <br />
+**▷ Download the app with the uber design here**: https://www.simcoder.com/product/uber-redesign/ <br />
 
 ▷ Full Video Tutorial Playlist here: https://www.youtube.com/playlist?list=PLxabZQCAe5fgXx8cn2iKOtt0VFJrf5bOd <br />
 ▷ Lesson on how to import this project here: https://www.youtube.com/watch?v=2TkNZ-Vael4 <br />
-▷ Uber Functions for payouts and payments: https://github.com/TralahMYoutube/uberFirebaseFunctions
+▷ Uber Functions for payouts and payments: https://github.com/SimCoderYoutube/uberFirebaseFunctions
 
-▷ Become a Patreon: https://www.patreon.com/TralahM<br />
-▷ Donate with PayPal: https://www.paypal.me/TralahM<br />
-▷ Twitter: https://twitter.com/TralahM<br />
-▷ GitHub : https://github.com/TralahM<br />
+▷ Become a Patreon: https://www.patreon.com/simpleCoder<br />
+▷ Donate with PayPal: https://www.paypal.me/simcoder<br />
+▷ Twitter: https://twitter.com/S1mpleCoder<br />
+▷ GitHub : https://goo.gl/88FHk4<br />
 
 ▷ If you have any question please ask, I'll try to answer to every question and even look at your code if that is necessary.
 
@@ -82,5 +58,3 @@ P.S: If ou're going to download the full project please use your own firebase AP
 7 - Go to the android studio -> java -> your package name -> PayPalConfig:
         a) add the PAYPAL_CLIENT_ID which you get from the paypal developer control Panel;
         b) add the PAYPAL_PAYOUT_URL which you get in the firebase control panel -> functions and the url that you want is the payouts;
-
-[![TralahM](https://img.shields.io/badge/Developer-TralahM-blue.svg?style=for-the-badge)](https://github.com/TralahM)
