@@ -2,10 +2,9 @@
 [![Build Status](https://travis-ci.com/TralahM/UberClone.svg?branch=master)](https://travis-ci.com/TralahM/UberClone)
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 [![Organization](https://img.shields.io/badge/Org-TralahTek-blue.svg)](https://github.com/TralahTek)
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![made-with-java](https://img.shields.io/badge/Made%20with-JAVA-1f425f.svg)](https://www.java.com/)
 [![HitCount](http://hits.dwyl.io/TralahM/UberClone.svg)](http://dwyl.io/TralahM/UberClone)
 [![Inline Docs](http://inch-ci.org/github/TralahM/UberClone.svg?branch=master)](http://inch-ci.org/github/TralahM/UberClone)
-[![PyPI pyversions](https://img.shields.io/pypi/pyversions/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/TralahM/pull/)
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg)](https://gitHub.com/TralahM/UberClone/pull/)
 [![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/TralahM/UberClone).
